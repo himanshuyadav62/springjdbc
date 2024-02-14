@@ -6,8 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 
-import com.spring.jdbc.dao.StudentDao;
-import com.spring.jdbc.dao.StudentDaoImpl;
+
 
 @Configuration
 @ComponentScan(basePackages = {"com.spring.jdbc.dao"})

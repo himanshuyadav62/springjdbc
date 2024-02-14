@@ -3,7 +3,6 @@ package com.spring.jdbc;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import com.spring.jdbc.dao.StudentDao;
-import com.spring.jdbc.entities.Student;
 
 public class App {
 
